@@ -1,0 +1,9 @@
+# Poke developer config
+
+colors:
+  primary: "#a4a0eb"
+  secondary: "#ddb5eb"
+
+socials:
+  discord: "https://discord.gg/7eYqtWxZtp/"
+  github: "https://github.com/pxlmo/Poke"

@@ -1,0 +1,17 @@
+#   Poke
+#
+#   [Discord] https://discord.gg/7eYqtWxZtp
+#   [GitHub] https://github.com/pxlmo/rfp
+#   [Documentation] https://2lewds-plugins.gitbook.io/poke/
+
+database:
+  username: "pokes"
+  password: "default"
+
+pokeSound: "ENTITY_EXPERIENCE_ORB_PICKUP"
+
+messages:
+  onJoin: "You have been poked {amount} time(s) while you were gone"
+  onPoke:
+    sent: "Successfully poked {player}!"
+    received: "{player} poked you!"
