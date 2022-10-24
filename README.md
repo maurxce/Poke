@@ -13,4 +13,4 @@ This plugin was originally part of my [RFP Repo](https://github.com/pxlmo/rfp), 
 
 - [Discord](https://discord.gg/7eYqtWxZtp)
 - [Documentation](https://2lewds-plugins.gitbook.io/poke/)
-- [Spigot]() Coming soon
+- [Spigot](https://www.spigotmc.org/resources/poke.105912/)
